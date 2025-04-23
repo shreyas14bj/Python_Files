@@ -10,3 +10,7 @@ A Python-based command-line tool to manage your daily tasks with an intuitive ca
 - 🗑️ **Delete by Category**: Remove all tasks under a specific category with one command.
 - 💾 **Persistent Storage**: Saves tasks to `to-do.txt`.
 - ✨ **Colorful Terminal UI** using `colorama`.
+
+🗂 to-do.txt is the task storage file automatically created by the program during runtime.
+All added tasks — along with their respective category and emoji — are saved here in a structured format for easy reference and persistent storage.
+This file acts as the central source of truth for your task list and updates dynamically as you add or delete tasks through the CLI.
